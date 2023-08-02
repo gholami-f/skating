@@ -1,0 +1,41 @@
+.list{
+    display: flex;
+    list-style: none;
+    background-color: blueviolet;
+    justify-content: center;
+    color: wheat;
+
+}
+.list li{
+    padding: 20px;
+
+   
+}
+.header{
+    width: 100%;
+   
+}
+img{
+    background-image: url(./style.css);
+    
+}
+
+.text{
+
+
+    position: absolute;
+}
+
+.btn{
+    width: 150px;
+    height:30px;
+    border: none;
+    position: relative;
+    top: 29%;
+    left: 62%;
+    position: absolute;
+    color: rgb(0, 0, 7);
+    background-color: rgb(83, 83, 238);
+    font-style: oblique;
+    cursor: pointer;
+}
